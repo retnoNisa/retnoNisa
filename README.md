@@ -1,4 +1,10 @@
 ### Hi there 👋
+Let me introduce myself<br>
+My name is Retno Nisa'ul Kamila.<br>
+I'm a Computer Engineering student at Diponegoro University and now I'm in my third year.<br>
+My hometown is in Tulungagung, East Java, but I study in Semarang
+
+You can get to know me on Instagram. [here it is](https://www.instagram.com/nisa_kmila?igsh=NWEwajZuZ2NhMG44)
 
 <!--
 **retnoNisa/retnoNisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
